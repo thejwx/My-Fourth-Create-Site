@@ -1,0 +1,26 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/jeffwilson/VSCode_Workspaces/My-Fourth-Create-Site"
+publishOrigin = "config"
+base = "/Users/jeffwilson/VSCode_Workspaces/My-Fourth-Create-Site"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
