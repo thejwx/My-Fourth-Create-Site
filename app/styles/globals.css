@@ -1,8 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.site-title { @apply text-4xl font-heading text-brand; }
-.site-tagline { @apply text-lg font-body text-neutral; }
-.nav-link { @apply text-sm text-neutral hover:underline; }
-.footer { @apply text-center text-xs text-neutral mt-8; }
